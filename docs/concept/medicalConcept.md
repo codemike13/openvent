@@ -60,8 +60,9 @@ These parameters are to be shown on a monitor:
 | Inhaled O2    |                                     |                                             |                   |
 | Exhaled CO2   | measure expired CO2                 | The exhaled CO2 is indicator: <br>  Tissular production of CO2 <br> CO2 transport in the venous system to the pulmonary arteries <br> CO2 elimination by the lungs          |                   |
 | P_0.1         |                                     | During assist control, the pressure generated 100ms after onset of inspiratory effort| | |
-| PTP/min       |                                     | During assist control, Pressure Time Product per minute | | |
-
+| PTP/min       |                              | During assist control, Pressure Time Product per minute |  | 
+| monitor | Shows trends of the last 0.5 to 4h |                                                         |  | 
+| Memory  | Data should be stored 24h          |                                                         |  |
 
 ### Parameters to be Controlled
 
@@ -75,8 +76,7 @@ These parameters are to be shown on a monitor:
 | Inspiration to expiration rate | 1:2 - 1:4   | Must be adjustable |
 | Ventilator Pressure | 5-30 cmH2O             | Must be adjustable |
 | FiO2  | 30-100%       | Ventilator needs to be connectable to Oxygen intake|
-| monitor | Shows trends of the last 0.5 to 4h |                    |
-| Memory  | Data should be stored 24h          |                    |
+
 
 
 
