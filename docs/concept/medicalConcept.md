@@ -62,7 +62,7 @@ These parameters are to be shown on a monitor:
 | P_0.1         |                                     | During assist control, the pressure generated 100ms after onset of inspiratory effort| | |
 | PTP/min       |                              | During assist control, Pressure Time Product per minute |  | 
 | monitor | Shows trends of the last 0.5 to 4h |                                                         |  | 
-| Memory  | Data should be stored 24h          |                                                         |  |
+| Memory  | Data should be stored 24h          |                                                         |  | 
 
 ### Parameters to be Controlled
 
